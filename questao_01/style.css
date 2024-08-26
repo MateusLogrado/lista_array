@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(177, 177, 253);
+    color: white;
+}
+
+button{
+    background-color: pink;
+    border: 2px solid;
+    border-radius: 4px;
+}
+
+input{
+    border: 2px solid;
+    border-radius: 12px;
+}
